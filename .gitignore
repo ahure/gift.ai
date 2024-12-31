@@ -1,0 +1,61 @@
+# Ign# Ignore the virtual environment
+venv/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project-specific files
+.idea/
+.vscode/
+
+# Ignore sensitive files
+config.py
+
+# Ignore logs and temp files
+*.log
+*.tmpore the virtual environment
+venv/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project-specific files
+.idea/
+.vscode/
+
+# Ignore sensitive files
+config.py
+
+# Ignore logs and temp files
+*.log
+*.tm# Ignore the virtual environment
+venv/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project-specific files
+.idea/
+.vscode/
+
+# Ignore sensitive files
+config.py
+
+# Ignore logs and temp files
+*.log
+*.tmp
